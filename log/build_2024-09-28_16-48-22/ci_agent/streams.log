@@ -1,0 +1,21 @@
+[0.026s] Invoking command in '/home/manish/ros2_ws/build/ci_agent': CONDA_PROMPT_MODIFIER=(auto) /usr/bin/cmake --build /home/manish/ros2_ws/build/ci_agent -- -j8 -l8
+[0.174s] Invoked command in '/home/manish/ros2_ws/build/ci_agent' returned '0': CONDA_PROMPT_MODIFIER=(auto) /usr/bin/cmake --build /home/manish/ros2_ws/build/ci_agent -- -j8 -l8
+[0.223s] Invoking command in '/home/manish/ros2_ws/build/ci_agent': CONDA_PROMPT_MODIFIER=(auto) /usr/bin/cmake --install /home/manish/ros2_ws/build/ci_agent
+[0.230s] -- Install configuration: ""
+[0.230s] -- Installing: /home/manish/ros2_ws/install/ci_agent/lib/ci_agent/ci_agent.py
+[0.232s] -- Up-to-date: /home/manish/ros2_ws/install/ci_agent/share/ament_index/resource_index/package_run_dependencies/ci_agent
+[0.236s] -- Up-to-date: /home/manish/ros2_ws/install/ci_agent/share/ament_index/resource_index/parent_prefix_path/ci_agent
+[0.238s] -- Up-to-date: /home/manish/ros2_ws/install/ci_agent/share/ci_agent/environment/ament_prefix_path.sh
+[0.239s] -- Up-to-date: /home/manish/ros2_ws/install/ci_agent/share/ci_agent/environment/ament_prefix_path.dsv
+[0.239s] -- Up-to-date: /home/manish/ros2_ws/install/ci_agent/share/ci_agent/environment/path.sh
+[0.239s] -- Up-to-date: /home/manish/ros2_ws/install/ci_agent/share/ci_agent/environment/path.dsv
+[0.239s] -- Up-to-date: /home/manish/ros2_ws/install/ci_agent/share/ci_agent/local_setup.bash
+[0.239s] -- Up-to-date: /home/manish/ros2_ws/install/ci_agent/share/ci_agent/local_setup.sh
+[0.239s] -- Up-to-date: /home/manish/ros2_ws/install/ci_agent/share/ci_agent/local_setup.zsh
+[0.240s] -- Up-to-date: /home/manish/ros2_ws/install/ci_agent/share/ci_agent/local_setup.dsv
+[0.241s] -- Up-to-date: /home/manish/ros2_ws/install/ci_agent/share/ci_agent/package.dsv
+[0.242s] -- Up-to-date: /home/manish/ros2_ws/install/ci_agent/share/ament_index/resource_index/packages/ci_agent
+[0.242s] -- Up-to-date: /home/manish/ros2_ws/install/ci_agent/share/ci_agent/cmake/ci_agentConfig.cmake
+[0.243s] -- Up-to-date: /home/manish/ros2_ws/install/ci_agent/share/ci_agent/cmake/ci_agentConfig-version.cmake
+[0.245s] -- Up-to-date: /home/manish/ros2_ws/install/ci_agent/share/ci_agent/package.xml
+[0.248s] Invoked command in '/home/manish/ros2_ws/build/ci_agent' returned '0': CONDA_PROMPT_MODIFIER=(auto) /usr/bin/cmake --install /home/manish/ros2_ws/build/ci_agent

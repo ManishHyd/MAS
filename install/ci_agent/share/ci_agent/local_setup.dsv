@@ -1,0 +1,2 @@
+source;share/ci_agent/environment/ament_prefix_path.sh
+source;share/ci_agent/environment/path.sh

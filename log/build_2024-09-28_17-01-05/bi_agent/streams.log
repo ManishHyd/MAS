@@ -1,0 +1,21 @@
+[0.023s] Invoking command in '/home/manish/ros2_ws/build/bi_agent': CONDA_PROMPT_MODIFIER=(auto) /usr/bin/cmake --build /home/manish/ros2_ws/build/bi_agent -- -j8 -l8
+[0.117s] Invoked command in '/home/manish/ros2_ws/build/bi_agent' returned '0': CONDA_PROMPT_MODIFIER=(auto) /usr/bin/cmake --build /home/manish/ros2_ws/build/bi_agent -- -j8 -l8
+[0.161s] Invoking command in '/home/manish/ros2_ws/build/bi_agent': CONDA_PROMPT_MODIFIER=(auto) /usr/bin/cmake --install /home/manish/ros2_ws/build/bi_agent
+[0.168s] -- Install configuration: ""
+[0.168s] -- Installing: /home/manish/ros2_ws/install/bi_agent/lib/bi_agent/bi_agent.py
+[0.170s] -- Up-to-date: /home/manish/ros2_ws/install/bi_agent/share/ament_index/resource_index/package_run_dependencies/bi_agent
+[0.170s] -- Up-to-date: /home/manish/ros2_ws/install/bi_agent/share/ament_index/resource_index/parent_prefix_path/bi_agent
+[0.170s] -- Up-to-date: /home/manish/ros2_ws/install/bi_agent/share/bi_agent/environment/ament_prefix_path.sh
+[0.170s] -- Up-to-date: /home/manish/ros2_ws/install/bi_agent/share/bi_agent/environment/ament_prefix_path.dsv
+[0.170s] -- Up-to-date: /home/manish/ros2_ws/install/bi_agent/share/bi_agent/environment/path.sh
+[0.170s] -- Up-to-date: /home/manish/ros2_ws/install/bi_agent/share/bi_agent/environment/path.dsv
+[0.170s] -- Up-to-date: /home/manish/ros2_ws/install/bi_agent/share/bi_agent/local_setup.bash
+[0.170s] -- Up-to-date: /home/manish/ros2_ws/install/bi_agent/share/bi_agent/local_setup.sh
+[0.171s] -- Up-to-date: /home/manish/ros2_ws/install/bi_agent/share/bi_agent/local_setup.zsh
+[0.171s] -- Up-to-date: /home/manish/ros2_ws/install/bi_agent/share/bi_agent/local_setup.dsv
+[0.171s] -- Up-to-date: /home/manish/ros2_ws/install/bi_agent/share/bi_agent/package.dsv
+[0.171s] -- Up-to-date: /home/manish/ros2_ws/install/bi_agent/share/ament_index/resource_index/packages/bi_agent
+[0.171s] -- Up-to-date: /home/manish/ros2_ws/install/bi_agent/share/bi_agent/cmake/bi_agentConfig.cmake
+[0.171s] -- Up-to-date: /home/manish/ros2_ws/install/bi_agent/share/bi_agent/cmake/bi_agentConfig-version.cmake
+[0.171s] -- Up-to-date: /home/manish/ros2_ws/install/bi_agent/share/bi_agent/package.xml
+[0.173s] Invoked command in '/home/manish/ros2_ws/build/bi_agent' returned '0': CONDA_PROMPT_MODIFIER=(auto) /usr/bin/cmake --install /home/manish/ros2_ws/build/bi_agent

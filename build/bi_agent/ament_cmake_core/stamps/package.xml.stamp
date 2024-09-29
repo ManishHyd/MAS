@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>bi_agent</name>
+  <version>0.0.0</version>
+  <description>BI Agent Node for Campus Virtual Tour</description>
+
+  <maintainer email="manishvutkoori@gmail.com">manish</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <buildtool_depend>ament_python</buildtool_depend>
+
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+
+  <test_depend>pytest</test_depend>
+
+</package>

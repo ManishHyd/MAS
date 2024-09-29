@@ -1,0 +1,36 @@
+[0.025s] Invoking command in '/home/manish/ros2_ws/build/visitor_agent': CONDA_PROMPT_MODIFIER=(auto) /usr/bin/cmake /home/manish/ros2_ws/src/visitor_agent -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/manish/ros2_ws/install/visitor_agent
+[0.079s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.245s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[0.395s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.400s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.413s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.434s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.456s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.544s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.547s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[3.702s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.873s] -- Configuring done
+[3.883s] -- Generating done
+[3.885s] -- Build files have been written to: /home/manish/ros2_ws/build/visitor_agent
+[3.898s] Invoked command in '/home/manish/ros2_ws/build/visitor_agent' returned '0': CONDA_PROMPT_MODIFIER=(auto) /usr/bin/cmake /home/manish/ros2_ws/src/visitor_agent -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/manish/ros2_ws/install/visitor_agent
+[3.901s] Invoking command in '/home/manish/ros2_ws/build/visitor_agent': CONDA_PROMPT_MODIFIER=(auto) /usr/bin/cmake --build /home/manish/ros2_ws/build/visitor_agent -- -j8 -l8
+[3.939s] Invoked command in '/home/manish/ros2_ws/build/visitor_agent' returned '0': CONDA_PROMPT_MODIFIER=(auto) /usr/bin/cmake --build /home/manish/ros2_ws/build/visitor_agent -- -j8 -l8
+[3.992s] Invoking command in '/home/manish/ros2_ws/build/visitor_agent': CONDA_PROMPT_MODIFIER=(auto) /usr/bin/cmake --install /home/manish/ros2_ws/build/visitor_agent
+[4.000s] -- Install configuration: ""
+[4.000s] -- Up-to-date: /home/manish/ros2_ws/install/visitor_agent/lib/visitor_agent/visitor_agent.py
+[4.001s] -- Up-to-date: /home/manish/ros2_ws/install/visitor_agent/share/ament_index/resource_index/package_run_dependencies/visitor_agent
+[4.001s] -- Up-to-date: /home/manish/ros2_ws/install/visitor_agent/share/ament_index/resource_index/parent_prefix_path/visitor_agent
+[4.001s] -- Up-to-date: /home/manish/ros2_ws/install/visitor_agent/share/visitor_agent/environment/ament_prefix_path.sh
+[4.001s] -- Installing: /home/manish/ros2_ws/install/visitor_agent/share/visitor_agent/environment/ament_prefix_path.dsv
+[4.001s] -- Up-to-date: /home/manish/ros2_ws/install/visitor_agent/share/visitor_agent/environment/path.sh
+[4.002s] -- Installing: /home/manish/ros2_ws/install/visitor_agent/share/visitor_agent/environment/path.dsv
+[4.002s] -- Up-to-date: /home/manish/ros2_ws/install/visitor_agent/share/visitor_agent/local_setup.bash
+[4.002s] -- Up-to-date: /home/manish/ros2_ws/install/visitor_agent/share/visitor_agent/local_setup.sh
+[4.002s] -- Up-to-date: /home/manish/ros2_ws/install/visitor_agent/share/visitor_agent/local_setup.zsh
+[4.002s] -- Installing: /home/manish/ros2_ws/install/visitor_agent/share/visitor_agent/local_setup.dsv
+[4.003s] -- Installing: /home/manish/ros2_ws/install/visitor_agent/share/visitor_agent/package.dsv
+[4.003s] -- Up-to-date: /home/manish/ros2_ws/install/visitor_agent/share/ament_index/resource_index/packages/visitor_agent
+[4.003s] -- Up-to-date: /home/manish/ros2_ws/install/visitor_agent/share/visitor_agent/cmake/visitor_agentConfig.cmake
+[4.003s] -- Up-to-date: /home/manish/ros2_ws/install/visitor_agent/share/visitor_agent/cmake/visitor_agentConfig-version.cmake
+[4.003s] -- Up-to-date: /home/manish/ros2_ws/install/visitor_agent/share/visitor_agent/package.xml
+[4.005s] Invoked command in '/home/manish/ros2_ws/build/visitor_agent' returned '0': CONDA_PROMPT_MODIFIER=(auto) /usr/bin/cmake --install /home/manish/ros2_ws/build/visitor_agent

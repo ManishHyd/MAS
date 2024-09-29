@@ -1,0 +1,6 @@
+Invoking command in '/home/manish/ros2_ws/build/visitor_agent': CONDA_PROMPT_MODIFIER=(auto) /usr/bin/cmake /home/manish/ros2_ws/src/visitor_agent -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/manish/ros2_ws/install/visitor_agent
+Invoked command in '/home/manish/ros2_ws/build/visitor_agent' returned '0': CONDA_PROMPT_MODIFIER=(auto) /usr/bin/cmake /home/manish/ros2_ws/src/visitor_agent -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/manish/ros2_ws/install/visitor_agent
+Invoking command in '/home/manish/ros2_ws/build/visitor_agent': CONDA_PROMPT_MODIFIER=(auto) /usr/bin/cmake --build /home/manish/ros2_ws/build/visitor_agent -- -j8 -l8
+Invoked command in '/home/manish/ros2_ws/build/visitor_agent' returned '0': CONDA_PROMPT_MODIFIER=(auto) /usr/bin/cmake --build /home/manish/ros2_ws/build/visitor_agent -- -j8 -l8
+Invoking command in '/home/manish/ros2_ws/build/visitor_agent': CONDA_PROMPT_MODIFIER=(auto) /usr/bin/cmake --install /home/manish/ros2_ws/build/visitor_agent
+Invoked command in '/home/manish/ros2_ws/build/visitor_agent' returned '0': CONDA_PROMPT_MODIFIER=(auto) /usr/bin/cmake --install /home/manish/ros2_ws/build/visitor_agent

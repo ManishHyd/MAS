@@ -1,0 +1,4 @@
+source;share/ci_agent/local_setup.bash
+source;share/ci_agent/local_setup.dsv
+source;share/ci_agent/local_setup.sh
+source;share/ci_agent/local_setup.zsh

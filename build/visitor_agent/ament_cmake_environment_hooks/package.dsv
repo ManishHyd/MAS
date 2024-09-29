@@ -1,0 +1,4 @@
+source;share/visitor_agent/local_setup.bash
+source;share/visitor_agent/local_setup.dsv
+source;share/visitor_agent/local_setup.sh
+source;share/visitor_agent/local_setup.zsh
